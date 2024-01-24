@@ -29,4 +29,4 @@ This repository is dedicated to providing resources and tools to enhance the eff
 
 ## Contact
 
-For questions and feedback, please contact [Andrés Posbeyikian](andres.posbeyikian@tsl.ac.uk).
+For questions and feedback, please contact Andrés Posbeyikian at [andres.posbeyikian@tsl.ac.uk]

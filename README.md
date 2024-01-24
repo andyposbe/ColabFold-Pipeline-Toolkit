@@ -16,11 +16,6 @@ This repository is dedicated to providing resources and tools to enhance the eff
 - **Tutorials**: Step-by-step guides on how to use these notebooks effectively.
 - **FAQs**: Answers to common questions and troubleshooting tips.
 
-## Getting Started
-
-1. **Prerequisites**: Ensure you have a Google account and access to Google Colab.
-2. **Installation**: No installation needed, just copy the desired notebooks.
-
 ## How to Use
 
 - **Accessing Notebooks**: Direct links to the Google Colab notebooks are provided. Simply click on a link to open a notebook in Google Colab.
@@ -29,7 +24,8 @@ This repository is dedicated to providing resources and tools to enhance the eff
 ## Acknowledgments
 
 
-## How do I reference this work?
+## Citations
+
 
 ## Contact
 

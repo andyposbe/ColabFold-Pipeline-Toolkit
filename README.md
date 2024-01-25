@@ -48,7 +48,7 @@ If you use this toolkit, please cite as follows:
   journal = {Zenodo},
   title   = {ColabFold-Pipeline-Toolkit},
   year    = {2024},
-  doi     = {https://doi.org/10.5281/zenodo.10565786}
+  doi     = {https://doi.org/10.5281/zenodo.10568700}
 }
 ```
 ## Contact

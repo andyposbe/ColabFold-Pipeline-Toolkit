@@ -17,7 +17,7 @@ This repository is dedicated to providing resources and tools to facilitate scre
 
 - **Pre-Processing Toolkit**: Scripts to prepare your data for processing with ColabFold, including:
   1. **Fasta combiner for AF2-Multimer**. Two lists of fastas may be combined for 2-way AlphaFold-Multimer screens. Interactive selection menus in the notebook allow for sub-selections from either pool of fasta files.
-  2.  **Homo-multimer fasta preparation**. Preparation of homo-oligomer fasta files from simple monomer fasta files.
+  2.  **Homo-oligomer fasta preparation**. Preparation of homo-oligomer fasta files from simple monomer fasta files.
   3. **Multifasta demultiplexer.** Converts multifasta into individual fasta files, compatible with ColabFold BATCH.
  
 - **ColabFold BATCH Score Extractor**:

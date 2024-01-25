@@ -1,6 +1,6 @@
 # colabfold-batch-processor: Streamlining ColabFold Pipelines
 
-<p align="center"><img src="https://github.com/andyposbe/colabfold-batch-processor/blob/main/Overview.png" height="510"/></p>
+<p align="center"><img src="https://github.com/andyposbe/colabfold-batch-processor/blob/main/Overview.png" height="400"/></p>
 
 
 The aim of this repository is to provide simple tools to help those working with ColabFold BATCH both for pre and post-processing steps.

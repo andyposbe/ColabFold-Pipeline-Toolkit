@@ -26,26 +26,21 @@ This repository is dedicated to providing resources and tools to facilitate scre
   3. ipTM extraction and model confidence calculation
   4. Dataframe output
   5. Static and interactive plot generation
-   
-## **Tutorials**: Step-by-step guides on how to use these notebooks effectively. *(coming soon)*
-
-## **FAQs**: Answers to common questions and troubleshooting tips. *(in development)*
 
 ## Getting Started
 
-1. **Prerequisites**: Ensure you have a Google account and access to Google Colab.
-2. **Installation**: No installation needed, just copy the desired notebooks.
+- **Prerequisites**: Ensure you have a Google account and access to Google Colab.
+- **Installation**: No installation needed, just copy the desired notebooks.
 
 ## How to Use
-
 - **Accessing Notebooks**: Direct links to the Google Colab notebooks are provided. Simply click on a link to open a notebook in Google Colab.
 - **Running Notebooks**: Follow the instructions within each notebook to execute the pre-processing or post-processing steps.
 
 ## Acknowledgments
+We thank our colleagues at The Sainsbury Laboratory for their encouragement and support.
 
-
-## How do I reference this work?
+## How do I reference this toolkit?
+If you use this toolkit, please cite as follows:
 
 ## Contact
-
 For questions and feedback, please contact [Andrés Posbeyikian] at [andres.posbeyikian@tsl.ac.uk].

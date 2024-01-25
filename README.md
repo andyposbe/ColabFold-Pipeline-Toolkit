@@ -1,4 +1,4 @@
-# **ColabFold-Pipeline-Toolkit** [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10568701.svg)](https://doi.org/10.5281/zenodo.10568701)
+# **ColabFold-Pipeline-Toolkit** 
 
 <p align="center"><img src="https://github.com/andyposbe/ColabFold-Pipeline-Toolkit/blob/main/Overview.png" height="420"/></p>
 
@@ -42,6 +42,7 @@ We thank our colleagues at The Sainsbury Laboratory for their encouragement and 
 ## How do I reference this toolkit?
 If you use this toolkit, please cite as follows:
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10568701.svg)](https://doi.org/10.5281/zenodo.10568701)
 ```python
 @Article{ColabFold-Pipeline-Toolkit,
   author  = {Posbeyikian A., Kamoun S.},

@@ -1,13 +1,13 @@
 # **ColabFold-Pipeline-Toolkit**
 
-<p align="center"><img src="https://github.com/andyposbe/colabfold-batch-processor/blob/main/Overview.png" height="420"/></p>
+<p align="center"><img src="https://github.com/andyposbe/ColabFold-Pipeline-Toolkit/blob/main/Overview.png" height="420"/></p>
 
 
 The aim of this repository is to provide simple tools to help those working with ColabFold BATCH both for pre and post-processing steps.
 
 ## Notebooks
 - Pre-Processing: *coming soon*
-- Post-Processing: [ColabFold BATCH Score Extractor](https://colab.research.google.com/github/andyposbe/colabfold-batch-processor/blob/main/ColabFold_BATCH_Score_Extractor.ipynb)
+- Post-Processing: [ColabFold BATCH Score Extractor](https://colab.research.google.com/github/andyposbe/ColabFold-Pipeline-Toolkit/blob/main/Score_Extractor.ipynb)
 
 ## Description
 

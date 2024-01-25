@@ -1,4 +1,4 @@
-# **ColabFold-Pipeline-Toolkit**
+# **ColabFold-Pipeline-Toolkit** [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10568701.svg)](https://doi.org/10.5281/zenodo.10568701)
 
 <p align="center"><img src="https://github.com/andyposbe/ColabFold-Pipeline-Toolkit/blob/main/Overview.png" height="420"/></p>
 

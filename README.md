@@ -42,5 +42,14 @@ We thank our colleagues at The Sainsbury Laboratory for their encouragement and 
 ## How do I reference this toolkit?
 If you use this toolkit, please cite as follows:
 
+```python
+@Article{ColabFold-Pipeline-Toolkit,
+  author  = {Posbeyikian, Andres},
+  journal = {Zenodo},
+  title   = {ColabFold-Pipeline-Toolkit},
+  year    = {2024},
+  doi     = {https://doi.org/10.5281/zenodo.10565786}
+}
+```
 ## Contact
 For questions and feedback, please contact [Andrés Posbeyikian] at [andres.posbeyikian@tsl.ac.uk].

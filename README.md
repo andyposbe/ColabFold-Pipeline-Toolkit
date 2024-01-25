@@ -1,4 +1,4 @@
-# colabfold-batch-processor: Streamlining ColabFold Pipelines
+# **colabfold-batch-processor**: simple toolkit for ColabFold BATCH
 
 <p align="center"><img src="https://github.com/andyposbe/colabfold-batch-processor/blob/main/Overview.png" height="420"/></p>
 

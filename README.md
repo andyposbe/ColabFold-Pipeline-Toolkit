@@ -7,7 +7,7 @@ The aim of this repository is to provide simple tools to help those working with
 
 ## Notebooks
 - Pre-Processing: [Pre-Processing Toolkit]
-- Post-Processing: [ColabFold BATCH Score Extractor]
+- Post-Processing: [ColabFold BATCH Score Extractor](https://colab.research.google.com/github/andyposbe/ColabFold-Pipeline-Toolkit/blob/main/Score_Extractor.ipynb)
 
 ## Description
 

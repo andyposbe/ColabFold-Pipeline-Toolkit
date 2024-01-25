@@ -44,7 +44,7 @@ If you use this toolkit, please cite as follows:
 
 ```python
 @Article{ColabFold-Pipeline-Toolkit,
-  author  = {Posbeyikian, Andres},
+  author  = {Posbeyikian A., Kamoun S.},
   journal = {Zenodo},
   title   = {ColabFold-Pipeline-Toolkit},
   year    = {2024},

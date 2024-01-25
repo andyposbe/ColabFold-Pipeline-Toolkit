@@ -6,19 +6,30 @@
 The aim of this repository is to provide simple tools to help those working with ColabFold BATCH both for pre and post-processing steps.
 
 ## Notebooks
-- Pre-Processing: *coming soon*
+- Pre-Processing: [Pre-Processing Toolkit](https://github.com/andyposbe/ColabFold-Pipeline-Toolkit/blob/main/Pre_processing.ipynb)
 - Post-Processing: [ColabFold BATCH Score Extractor](https://colab.research.google.com/github/andyposbe/ColabFold-Pipeline-Toolkit/blob/main/Score_Extractor.ipynb)
 
 ## Description
 
-This repository is dedicated to providing resources and tools to enhance the efficiency of working with ColabFold BATCH pipelines. Here, you will find a collection of Google Colab notebooks that are designed to simplify and automate the pre-processing and post-processing steps in protein structure prediction using ColabFold and ColabFold BATCH.
+This repository is dedicated to providing resources and tools to facilitate screens with ColabFold BATCH pipelines. Here, you will find a collection of Google Colab notebooks that are designed to simplify and automate the pre-processing and post-processing steps in protein structure prediction using ColabFold and ColabFold BATCH.
 
 ## Features
 
-- **Pre-Processing Notebooks**: Scripts to prepare your data for processing with ColabFold. This includes the preparation of input fasta files that meet the standard requirements for 2-way AlphaFold-Multimer screens.
-- **Post-Processing Notebooks**: Tools to analyze and visualize the results from ColabFold screens.
-- **Tutorials**: Step-by-step guides on how to use these notebooks effectively.
-- **FAQs**: Answers to common questions and troubleshooting tips.
+- **Pre-Processing Toolkit**: Scripts to prepare your data for processing with ColabFold, including:
+  1. **Fasta combiner for AF2-Multimer**. Two lists of fastas may be combined for 2-way AlphaFold-Multimer screens. Interactive selection menus in the notebook allow for sub-selections from either pool of fasta files.
+  2.  **Homo-multimer fasta preparation**. Preparation of homo-oligomer fasta files from simple monomer fasta files.
+  3. **Multifasta demultiplexer.** Converts multifasta into individual fasta files, compatible with ColabFold BATCH.
+ 
+- **ColabFold BATCH Score Extractor**:
+  1. Filtering for highest_ranked models
+  2. pTM and max_pae extraction
+  3. ipTM extraction and model confidence calculation
+  4. Dataframe output
+  5. Static and interactive plot generation
+   
+## **Tutorials**: Step-by-step guides on how to use these notebooks effectively. *(coming soon)*
+
+## **FAQs**: Answers to common questions and troubleshooting tips. *(in development)*
 
 ## Getting Started
 

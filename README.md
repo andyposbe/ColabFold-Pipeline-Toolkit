@@ -44,7 +44,7 @@ This repository is dedicated to providing resources and tools to facilitate scre
 ## How do I reference this toolkit?
 If you use this toolkit, please cite as follows:
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10568701.svg)](https://doi.org/10.5281/zenodo.10568701)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10568700.svg)](https://doi.org/10.5281/zenodo.10568700)
 ```python
 @Article{ColabFold-Pipeline-Toolkit,
   author  = {Posbeyikian A., Kamoun S.},
